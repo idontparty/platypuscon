@@ -451,8 +451,7 @@
       "footprint": "led-5mm", 
       "layer": "top", 
       "location": [
-       25.696607,
-       31.869759
+       25.696607,31.869759
       ], 
       "rotate": 80, 
       "show": true, 
@@ -589,16 +588,7 @@
         "value": "idont - 2016"
       }
 
-    ], 
-    "pours": [
-       
-      {
-        "layers": [
-          "bottom"
-        ], 
-        "type": "layer"
-      }
-    ], 
+    ],
     "silkscreen": [
       {
         "layers": [
