@@ -34,3 +34,10 @@ useful stuff.
 - how2solder
 - how2placeComponents
 And probably heaps more? This is very optimistic
+
+
+### Credits
+- [twitchyliquid64](https://github.com/twitchyliquid64) for sanity checks, ordering of boards and answering stupid questions
+- [Silvio Cesare](https://twitter.com/silviocesare) for sanity checks and answering stupid questions
+- [Kylie](https://twitter.com/kylieengineer) for sanity checks and answering stupid questions
+- filsy for providing template badges and answering PCBModE specific questions
