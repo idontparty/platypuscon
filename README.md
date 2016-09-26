@@ -4,7 +4,7 @@
 ### Introduction
 The git repo that contains everything surrounding the platypuscon badges
 (2016). Hope you enjoyed the con! Tweet/msg me @
-[idont]('https://twitter.com/idont_party') if you have questions or feedback.
+[idont](https://twitter.com/idont_party) if you have questions or feedback.
 
 
 ### Parts list
