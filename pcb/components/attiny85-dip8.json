@@ -1,0 +1,128 @@
+{
+  "pins":
+  {
+  "1-RST":
+    {   
+      "layout": 
+      {
+    "pad": "pin1", 
+    "location": [-3.81, -3.81],
+        "rotate": 180
+      }
+    },
+  "2-D3":
+    {
+      "layout": 
+      {
+    "pad": "pin", 
+    "location": [-1.27, -3.81]
+      }
+    },
+  "3-D4":
+    {
+      "layout": 
+      {
+    "pad": "pin", 
+    "location": [1.27, -3.81]
+      }
+    },
+  "4-GND":
+    {
+      "layout": 
+      {
+    "pad": "pin", 
+    "location": [3.81, -3.81]
+      }
+    },
+  
+  "5-D0":
+    {
+      "layout": 
+      {
+    "pad": "pin", 
+    "location": [3.81, 3.81],
+        "rotate": 0
+      }
+    },
+  "6-D1":
+    {
+      "layout": 
+      {
+    "pad": "pin", 
+    "location": [1.27, 3.81]
+      }
+    },
+  "7-D2":
+    {
+      "layout": 
+      {
+    "pad": "pin", 
+    "location": [-1.27, 3.81]
+      }
+    },
+  "8-VCC":
+    {
+      "layout": 
+      {
+    "pad": "pin", 
+    "location": [-3.81, 3.81]
+      }
+    }
+  },
+  "layout":
+  {
+    "assembly":
+    {
+      "shapes":
+      [
+    {
+      "type": "rect",
+          "width": 8.7,
+          "height": 7.5,
+      "style": "stroke",
+      "location": [0, 0]
+    }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pin":
+    {
+      "shapes":
+      [
+    {
+      "type": "circle",
+      "layers": ["top", "bottom"],
+      "diameter": 1.5,
+      "location": [0, 0] 
+    }
+      ],
+      "drills":
+      [
+        {
+          "diameter": 0.7
+        }
+      ]
+    },
+    "pin1":
+    {
+      "shapes":
+      [
+    {
+      "layers": ["top", "bottom"],
+      "type": "rect",
+          "width": 1.5,
+          "height": 1.5,
+          "radii": {"tl": 0, "tr": 0, "bl": 0.75, "br": 0}
+    }
+      ],
+      "drills":
+      [
+        {
+          "diameter": 0.7
+        }
+      ]
+    }
+  }
+}
